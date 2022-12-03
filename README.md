@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sendoa Ledesma, thank you for watching my Git repository !! 
 
-- 👀 I’m mostly interested in Backend development but I enjoy working with both parts of the stack as I'm currently working as Full stack developer.
+- 👀 I’m mostly interested in Backend development but I enjoy working with both parts of the stack although I'm currently a backend developer.
 
-- 🌱 I’m currently learning Spring Boot, Docker and AWS.
+- 🌱 I’m currently working on improving my skills in Spring boot, Microservices, Docker and Azure.
 
 - 📫 You can contact me in this mail: sledesmadev@gmail.com
 
